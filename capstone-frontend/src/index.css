@@ -5,9 +5,15 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOVZeDCLn7eChiA3Xao5cVSWnnmfBZhquJt1GgCBbSC1uB6D4sxA-RzNjQlSo5cLTaW7w&usqp=CAU");
+  background-size:  cover;
+  background: repeat(none) ;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+
